@@ -2,7 +2,7 @@
 difference between sort() and sorted() 
 
 # sorted():
-'sorted is used for list,tuple,set and dictionaries'
+'sorted is used for str,list,tuple,set and dictionaries'
 sorted() method sorts the given sequence as well as set and dictionary(which is not a sequence) either in ascending order or in descending order(does unicode comparison for string char by char) and always returns the a sorted list. This method doesn’t effect the original sequence.
 # Syntax: sorted(iteraable, key, reverse=False)affect
 # ex:
